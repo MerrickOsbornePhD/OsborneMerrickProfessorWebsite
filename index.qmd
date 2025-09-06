@@ -8,11 +8,17 @@ about:
 
 :::{#me}
 
-## Goals
+## Who I am
 
-## Education
+I am an assistant professor in the Organizational Behavior Department for the Industrial and Labor Relations School at Cornell University.
 
-## Experience
+## My research
+
+My research uncovers the promises and perils that low-status employees face when expressing themselves at work. Using laboratory, archival, and machine learning methodologies, I problematize theoretical assumptions about how low-status employees gain (or lose) status through expressing themselves. Naturally, some of my work is grounded in the context of diversity, equity, and inclusion initiatives. 
+
+## Where have I been?
+
+
 
 :::
 

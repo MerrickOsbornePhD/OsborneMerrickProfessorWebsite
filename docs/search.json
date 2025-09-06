@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "I am an assistant professor in the Organizational Behavior Department for the Industrial and Labor Relations School at Cornell University.\n\n\n\nMy research uncovers the promises and perils that low-status employees face when expressing themselves at work. Using laboratory, archival, and machine learning methodologies, I problematize theoretical assumptions about how low-status employees gain (or lose) status through expressing themselves. Naturally, some of my work is grounded in the context of diversity, equity, and inclusion initiatives.\nThanks for checking out my web site!"
   },
   {
     "objectID": "projects.html#project-2",
@@ -19,5 +19,19 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
+  },
+  {
+    "objectID": "index.html#who-i-am",
+    "href": "index.html#who-i-am",
+    "title": "About Me",
+    "section": "",
+    "text": "I am an assistant professor in the Organizational Behavior Department for the Industrial and Labor Relations School at Cornell University."
+  },
+  {
+    "objectID": "index.html#my-research",
+    "href": "index.html#my-research",
+    "title": "About Me",
+    "section": "",
+    "text": "My research uncovers the promises and perils that low-status employees face when expressing themselves at work. Using laboratory, archival, and machine learning methodologies, I problematize theoretical assumptions about how low-status employees gain (or lose) status through expressing themselves. Naturally, some of my work is grounded in the context of diversity, equity, and inclusion initiatives."
   }
 ]
