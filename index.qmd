@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+title-block-banner: "red"
 about:
   id: me
   template: broadside
