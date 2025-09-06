@@ -1,10 +1,18 @@
 ---
-title: "About Me"
-title-block-banner: "red"
+title: "Merrick Osborne"
+title-block-banner-color: "black"
+theme: quartz
+affiliation-title: plain
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: trestles
+  image: img/headshot.png
+  image-shape: rounded
+  image-alt: "Merrick Osborne Headshot"
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
 ---
 
 :::{#me}
@@ -19,6 +27,7 @@ My research uncovers the promises and perils that low-status employees face when
 
 ## Where have I been?
 
+I graduated from the University of North Carolina at Chapel Hill in 2016. While there, I was a McNair scholar. After graduating, I spent two years as a research coordinator at Stanford's Graduate School of Business before beginning my PhD at the University of Southern California's Marshall School of Business, studying under Eric Anicich. I was a postdoc at the University of California Berkeley Haas School of Business, working with Dr. Drew Jacoby-Senghor and Sa-Kiera Hudson (shout out to Kiera's HIGHER Lab).
 
 
 :::
