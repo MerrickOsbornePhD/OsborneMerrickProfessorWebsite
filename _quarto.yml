@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
       - collaborators.qmd
+      - CV.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -21,8 +21,8 @@ website:
 
 format:
   html:
-    theme: cerulean
-    toc: true
+    theme: simplex
+    toc: false
 
 editor: source
 

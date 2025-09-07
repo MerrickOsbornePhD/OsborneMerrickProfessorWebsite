@@ -1,3 +1,3 @@
-# CurrentRepo
+# Headline
 
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
+This is Merrick Osborne's website.

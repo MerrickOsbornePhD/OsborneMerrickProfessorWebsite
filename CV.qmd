@@ -1,0 +1,14 @@
+---
+title: "CV"
+title-block-banner-color: "black"
+theme: simplex
+affiliation-title: plain
+---
+
+## My CV is below, but you can also download it [here](https://cornell.box.com/s/kl3js4st1ohd3wumfvy6wugkojp36pm5)
+
+<object data="https://cornell.box.com/s/kl3js4st1ohd3wumfvy6wugkojp36pm5" type="application/pdf" width="700px" height="1000px">
+    <embed src="https://cornell.box.com/s/kl3js4st1ohd3wumfvy6wugkojp36pm5">
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://cornell.box.com/s/kl3js4st1ohd3wumfvy6wugkojp36pm5">Download PDF</a>.</p>
+    </embed>
+</object>

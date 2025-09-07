@@ -1,12 +1,12 @@
 ---
-title: "Merrick Osborne"
+title: "Merrick Osborne, PhD"
 title-block-banner-color: "black"
-theme: quartz
+theme: simplex
 affiliation-title: plain
 about:
   id: me
-  template: trestles
-  image: img/headshot.png
+  template: jolla
+  image: docs/img/headshot.jpg
   image-shape: rounded
   image-alt: "Merrick Osborne Headshot"
   links:
@@ -17,9 +17,11 @@ about:
 
 :::{#me}
 
-## Who I am
 
-I am an assistant professor in the Organizational Behavior Department for the Industrial and Labor Relations School at Cornell University.
+
+## About me
+
+I am an assistant professor in the Organizational Behavior Department for the Industrial and Labor Relations School at Cornell University. My university webpage is [here](https://www.ilr.cornell.edu/people/merrick-r-osborne).
 
 ## My research
 
@@ -27,9 +29,7 @@ My research uncovers the promises and perils that low-status employees face when
 
 ## Where have I been?
 
-I graduated from the University of North Carolina at Chapel Hill in 2016. While there, I was a McNair scholar. After graduating, I spent two years as a research coordinator at Stanford's Graduate School of Business before beginning my PhD at the University of Southern California's Marshall School of Business, studying under Eric Anicich. I was a postdoc at the University of California Berkeley Haas School of Business, working with Dr. Drew Jacoby-Senghor and Sa-Kiera Hudson (shout out to Kiera's HIGHER Lab).
+I graduated from the University of North Carolina at Chapel Hill in 2016. While there, I was a [McNair scholar](https://our.unc.edu/news-update/mcnair-scholars-program-info-sessions/). After graduating, I spent two years as a [research coordinator at Stanford's Graduate School of Business](https://www.gsb.stanford.edu/faculty-research/behavioral-lab) before beginning my PhD at the [University of Southern California's Marshall School of Business](https://www.marshall.usc.edu/programs/graduate-programs/phd-program), studying under [Dr. Eric Anicich](https://www.marshall.usc.edu/personnel/eric-anicich). I was a postdoc at the University of California Berkeley Haas School of Business, working with Dr. Drew Jacoby-Senghor and Sa-Kiera Hudson (shout out to Kiera's [HIGHER](https://www.higherlaboratory.com/) Lab).
 
 
 :::
-
-Thanks for checking out my web site!

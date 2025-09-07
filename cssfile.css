@@ -1,0 +1,13 @@
+/* Change the color of figure captions */
+figcaption {
+    color: "#000000";  /* Replace with your desired color */
+    font-weight: bold;
+}
+
+img {
+  object-fit: cover;
+  border-radius: 8px;
+  width: 150px;
+  height: 150px;
+  
+}

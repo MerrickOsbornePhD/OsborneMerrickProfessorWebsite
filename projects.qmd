@@ -1,5 +1,8 @@
 ---
 title: "Projects"
+title-block-banner-color: "black"
+theme: simplex
+affiliation-title: plain
 ---
 
 ## Project 1
