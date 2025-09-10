@@ -14,11 +14,9 @@ format:
 ---
 
 # Collaborators on the job market {.tabset}
-<details>
 
-<summary> Postdocs on the job market </summary>
 ## Postdocs
-::: {layout-ncol=2 max-width=300px}
+::: {layout-ncol=2 max-width=300px .tabset-dropdown}
 [![Alexandra Figueroa, PhD; Racial Equity Postdoc at University of California Berkeley Haas School of Business](docs/img/Collaborators/AlexandraFigueroa.jpg)](https://alexandrafigueroa.com/)
 
 [![Andrew L. Choi, PhD; Postdoctoral Research Fellow At University College London, School of Managmement](docs/img/Collaborators/AndrewChoi.jpg)](https://www.andrewlchoi.com/)
@@ -30,4 +28,3 @@ format:
 
 [![Samantha Martinez, USC Marshall](docs/img/Collaborators/SamanthaMartinez.png)](https://www.marshall.usc.edu/personnel/samantha-martinez)
 :::
-</details>
