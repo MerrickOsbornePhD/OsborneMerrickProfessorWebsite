@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Collaborators"
 title-block-banner-color: "black"
 theme: simplex
 fig-cap-location: bottom
@@ -28,3 +28,5 @@ format:
 
 [![Samantha Martinez, USC Marshall](docs/img/Collaborators/SamanthaMartinez.png)](https://www.marshall.usc.edu/personnel/samantha-martinez)
 :::
+
+

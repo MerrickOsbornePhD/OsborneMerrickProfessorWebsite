@@ -2,6 +2,8 @@
 figcaption {
     color: "#000000";  /* Replace with your desired color */
     font-weight: bold;
+    text-align: center;
+
 }
 
 img {
