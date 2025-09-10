@@ -1,5 +1,5 @@
 ---
-title: "My Collaborators"
+title: " "
 title-block-banner-color: "black"
 theme: simplex
 fig-cap-location: bottom
