@@ -13,7 +13,7 @@ format:
     css: cssfile.css
 ---
 
-# Collaborators on the job market {.tabset}
+# Collaborators on the job market
 
 ## Postdocs
 ::: {layout-ncol=2 max-width=300px .tabset-dropdown}
