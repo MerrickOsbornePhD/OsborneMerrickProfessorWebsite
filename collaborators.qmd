@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 title-block-banner-color: "black"
 theme: simplex
 fig-cap-location: bottom
@@ -23,7 +23,7 @@ format:
 :::
 
 ## PhD students
-::: {layout-ncol=2 max-width=300px}
+::: {layout-ncol=2 max-width=300px .tabset-dropdown}
 [![Jacob Roberson, USC Marshall](docs/img/Collaborators/JacobRoberson.png)](https://www.jwroberson.com/)
 
 [![Samantha Martinez, USC Marshall](docs/img/Collaborators/SamanthaMartinez.png)](https://www.marshall.usc.edu/personnel/samantha-martinez)
